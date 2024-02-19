@@ -30,7 +30,7 @@ Linked Lists: Linked lists are utilized for transaction history, allowing for dy
 </ul>
 <h2>Compilation Instructions</h2>
 <p>To compile the program, execute the following command in the terminal:</p>
-<h3><b><i>g++ -o atm atm.cpp</i></b></h3>
+<h4><b><i>g++ -o atm atm.cpp</i></b></h4>
 <h2>Usage</h2>
 <ol>
 <li>
