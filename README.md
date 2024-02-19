@@ -4,7 +4,7 @@
 <h2>Features</h2>
 <ul>
 <li>
-<b>User Authentication:<b> Users can log in with their account number and PIN (Personal Identification Number).
+<b>User Authentication:<b> <p>Users can log in with their account number and PIN (Personal Identification Number).</p>
 </li>
 <li>
 <b>Deposit:</b> Users can deposit funds into their account.
