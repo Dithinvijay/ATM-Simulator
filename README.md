@@ -4,18 +4,18 @@
 <h2>Features</h2>
 <ul>
 <li>
-<b>User Authentication:<b> <p>Users can log in with their account number and PIN (Personal Identification Number).</p>
+User Authentication: Users can log in with their account number and PIN (Personal Identification Number).
 </li>
 <li>
-<b>Deposit:</b> Users can deposit funds into their account.
+Deposit: Users can deposit funds into their account.
 </li>
 <li>
-<b>Withdrawal:</b> Users can withdraw funds from their account, provided they have sufficient balance.
+Withdrawal: Users can withdraw funds from their account, provided they have sufficient balance.
 </li>
 <li>
-<b>Balance Inquiry:</b> Users can check their account balance.
+Balance Inquiry: Users can check their account balance.
 </li>
 <li>
-<b>Account Management:</b> Users can change their PIN and view transaction history.
+Account Management: Users can change their PIN and view transaction history.
 </li>
 </ul>
