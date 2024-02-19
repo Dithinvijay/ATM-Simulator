@@ -30,7 +30,7 @@ Linked Lists: Linked lists are utilized for transaction history, allowing for dy
 </ul>
 <h2>Compilation Instructions</h2>
 <p>To compile the program, execute the following command in the terminal:</p>
-<h4><b><i>g++ -o atm atm.cpp</i></b></h4>
+<h3><b><i>g++ -o atm atm.cpp</i></b></h3>
 <h2>Usage</h2>
 <ol>
 <li>
@@ -44,3 +44,4 @@ Log out(Exit) of the ATM when finished.
 </li>
 </ol>
 <h2>Sample Input/Output</h2>
+![image](https://github.com/Dithinvijay/ATM-Simulator/assets/123413489/0b696a47-9440-49be-87de-8cb960c79afa)
