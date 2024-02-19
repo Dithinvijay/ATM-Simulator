@@ -28,6 +28,9 @@ Arrays: Arrays are used to store account information such as account numbers, PI
 Linked Lists: Linked lists are utilized for transaction history, allowing for dynamic storage of transaction records.
 </li>
 </ul>
+<h2>Direct Download</h2>
+<p>Click on the below link to download directly</p>
+<a href="https://github.com/Dithinvijay/ATM-Simulator/archive/refs/heads/main.zip">Direct Download</a>
 <h2>Compilation Instructions</h2>
 <p>To compile the program, execute the following command in the terminal:</p>
 <h3><b><i>g++ -o atm atm.cpp</i></b></h3>
