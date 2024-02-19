@@ -19,3 +19,12 @@ Balance Inquiry: Users can check their account balance.
 Account Management: Users can change their PIN and view transaction history.
 </li>
 </ul>
+<h2>Data Strutures Used</h2>
+<ul>
+<li>
+Arrays: Arrays are used to store account information such as account numbers, PINs, and balances.
+</li>
+<li>
+Linked Lists: Linked lists are utilized for transaction history, allowing for dynamic storage of transaction records.
+</li>
+</ul>
