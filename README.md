@@ -7,7 +7,7 @@
 <b>User Authentication:<b> Users can log in with their account number and PIN (Personal Identification Number).
 </li>
 <li>
-<b>Deposit:<b> Users can deposit funds into their account.
+<b>Deposit:</b> Users can deposit funds into their account.
 </li>
 <li>
 <b>Withdrawal:</b> Users can withdraw funds from their account, provided they have sufficient balance.
