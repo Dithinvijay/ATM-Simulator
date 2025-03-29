@@ -1,6 +1,6 @@
 # ATM-Simulator
 <h2>Overview</h2>
-<p>This project is an ATM (Automated Teller Machine) simulator implemented in C++. It mimics the functionalities of a real ATM, allowing users to perform basic banking operations such as deposit, withdrawal, balance inquiry, and account management.</p>
+<p>This project is an ATM (Automated Teller Machine) simulator implemented in Java. It mimics the functionalities of a real ATM, allowing users to perform basic banking operations such as deposit, withdrawal, balance inquiry, and account management.</p>
 <h2>Features</h2>
 <ul>
 <li>
