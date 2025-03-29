@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class ATM {
     private Account head;
-
     public ATM() {
         this.head = null;
     }
