@@ -50,4 +50,5 @@ Log out(Exit) of the ATM when finished.
 </ol>
 <h2>Sample Input/Output</h2>
 
-![image](https://github.com/Dithinvijay/ATM-Simulator/assets/123413489/0b696a47-9440-49be-87de-8cb960c79afa)
+![image](https://github.com/user-attachments/assets/33db9726-8086-4e94-8a5a-07e3eb7c6e34)
+
