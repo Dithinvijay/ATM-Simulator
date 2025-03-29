@@ -51,4 +51,5 @@ Log out(Exit) of the ATM when finished.
 <h2>Sample Input/Output</h2>
 
 ![image](https://github.com/user-attachments/assets/33db9726-8086-4e94-8a5a-07e3eb7c6e34)
+![image](https://github.com/user-attachments/assets/eb105886-9f65-4821-af8d-161b2ec5a196)
 
