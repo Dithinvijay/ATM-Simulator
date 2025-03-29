@@ -35,7 +35,7 @@ Linked Lists: Linked lists are utilized for transaction history, allowing for dy
 <p>To compile the program, execute the following command in the terminal:</p>
 <h3><b><i>javac atmsimulator\*.java</i></b></h3>
 <p>Or else Use click on the below link to details</p>
-<a href="">https://github.com/Dithinvijay/ATM-Simulator.git</a>
+<a href="https://github.com/Dithinvijay/ATM-Simulator.git">https://github.com/Dithinvijay/ATM-Simulator.git</a>
 <h2>Usage</h2>
 <ol>
 <li>
